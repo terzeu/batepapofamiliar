@@ -87,3 +87,29 @@ h6 {
     font-weight: 800;
   }
 }
+
+.widget-sympla {
+  position: fixed;
+  display: block;
+  width: 250px;
+  height: 50px;
+  right: 15px;
+  bottom: 170px;
+  background: none;
+  z-index: 3;
+}
+.perfil {
+  display: flex;
+  padding: 20px;
+  border-radius: 60px;
+  background-color: white;
+  align-items: center;
+  .spaccing-column {
+    margin: 0 30px;
+  }
+  .img-perfil {
+    border-radius: 40px;
+    width: 80px;
+    height: 80px;
+  }
+}

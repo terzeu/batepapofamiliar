@@ -1,1 +1,28 @@
 node_modules
+
+# para build:
+# css/stylish-portfolio.css
+# js/stylish-portfolio.js
+# scss
+# vendor/bootstrap/css/bootstrap-grid.css
+# vendor/bootstrap/css/bootstrap-grid.css.map
+# vendor/bootstrap/css/bootstrap-reboot.css
+# vendor/bootstrap/css/bootstrap-reboot.css.map
+# vendor/bootstrap/css/bootstrap.css
+# vendor/bootstrap/css/bootstrap.css.map
+# vendor/bootstrap/js/bootstrap.bundle.js
+# vendor/bootstrap/js/bootstrap.bundle.map
+# vendor/bootstrap/js/bootstrap.js.map
+# vendor/bootstrap/js/bootstrap.js.map
+# vendor/fontawesome-free/css/all.css
+# vendor/fontawesome-free/css/brands.css
+# vendor/fontawesome-free/css/fontawesome.css
+# vendor/fontawesome-free/css/regular.css
+# vendor/fontawesome-free/css/solid.css
+# vendor/fontawesome-free/css/svg-with-js.css
+# vendor/fontawesome-free/css/v4-shims.css
+# vendor/jquery/jquery.js
+# vendor/jquery/jquery.slim.js
+# vendor/jquery-easing/jquery.easing.compatibility.js
+# vendor/jquery-easing/jquery.easing.js
+
