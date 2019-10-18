@@ -97,8 +97,13 @@ h6 {
   bottom: 170px;
   background: none;
   z-index: 3;
+
+  iframe{
+    height: 280px !important;
+  }
 }
 .perfil {
+  font-size: 20px;
   display: flex;
   padding: 20px;
   border-radius: 60px;
